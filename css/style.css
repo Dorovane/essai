@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+header{
+    padding-top: 3%;
+    background-color: grey;
+}
+li{
+    text-align: center;
+    display: block;
+    border: 1px solid black;
+}
+button{
+    margin-left: 80%;
+    padding-bottom: 5%;
+}
+h2{
+    color: white;
+}
+@media (min-width:768px)
+{
+    header{
+        background-color: black;
+    }
+}
